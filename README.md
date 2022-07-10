@@ -4,7 +4,6 @@
 - JDBC
 - SQL (Postgresql)
 - Spring core
-- Spring Validator
 - JUnit
 - JavaFX
 
